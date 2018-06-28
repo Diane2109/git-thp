@@ -1,0 +1,21 @@
+Question 2.2
+puts affiche ce qu'il y a entre quillemets puis va à la ligne alors que print ne vas pas à la ligne ensuite
+
+Question 2.3
+Les # en début de ligne permettent de glisser des commentaires
+
+Question 2.4
+Le programme ne fonctionne pas et indique une erreur puisqu'il manque des guillemets à la fin du string
+
+Question 2.5
+#{} permet d'afficher la valeur d'une variable à l'intérieur d'un string
+
+Question 2.6
+Une des variables n'étaient pas définies, je l'ai donc rajoutée ensuite, il s'agissait de number of minutes in an hour
+
+Question 2.7
+gets.chomp permet de demander à l'utilisateur la valeur d'une variable et de l'enregistrer dans la variable en question
+
+La différence entre ces 3 programmes tiennent à la présentation de la question qui n'apparait dans la 3e version et à l'apparition d'une flèche dans la 2e version.
+
+
